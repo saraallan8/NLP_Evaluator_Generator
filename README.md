@@ -8,6 +8,10 @@ The NLP Evaluator-Generator allows users to upload documents, provide website UR
 
 The application retrieves relevant context, generates an answer using a large language model, and evaluates the answer before returning the final result.
 
+## Application Screenshot
+
+![NLP Evaluator-Generator application screenshot](screenshots/app-screenshot.png)
+
 ## Features
 
 - **Multiple Knowledge Sources:** Upload documents, ingest website URLs, and retrieve Wikipedia content.
