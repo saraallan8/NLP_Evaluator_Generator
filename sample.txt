@@ -1,0 +1,5 @@
+Our project uses an Evaluator-Generator workflow.
+The Generator retrieves relevant information and creates an answer.
+The Evaluator checks accuracy, relevance, completeness, and grounding.
+The maximum number of evaluation iterations is four.
+Redis is used to cache reusable results.
